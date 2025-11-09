@@ -1,0 +1,36 @@
+name: Auto Quote Commits
+
+on:
+  schedule:
+    # Every day at 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}  # allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  auto-quote-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run quote auto-commit script
+        run: python auto_quotes.py
+
+      - name: Push commits (if any)
+        run: |
+          # If there are no new commits, this will just be a no-op
+          git push origin HEAD
