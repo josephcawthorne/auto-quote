@@ -93,7 +93,7 @@ def main():
         print("Not a commit day. Exiting without changes.")
         return
 
-    # It's a commit day 🎉
+    # It's a commit day
     num_commits = random.randint(2, 3)
     gap_days = random.randint(2, 3)
     new_next_date = today + timedelta(days=gap_days)
