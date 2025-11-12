@@ -14,3 +14,4 @@
 # The future depends on what you do today. - Mahatma Gandhi
 # Action is the foundational key to all success. - Pablo Picasso
 # Perfection is the enemy of progress. - Winston Churchill
+# The only way to do great work is to love what you do. - Steve Jobs
