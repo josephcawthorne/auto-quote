@@ -11,31 +11,31 @@ PURPOSE_LINE = (
 )
 HEADER_TEXT = "Git hub commit history does not work for measuring skill level."
 HEADER_SUMMARY_1 = (
-    "A simple Python script can automate daily commits — therefore it is not a measure that can be trusted."
+    "A simple Python script can automate daily commits - therefore it is not a measure that can be trusted."
 )
 NEXT_PREFIX = "# NEXT_COMMIT_DATE: "
 
 QUOTES = [
-    "The only way to do great work is to love what you do. — Steve Jobs",
-    "Whether you think you can or you think you can’t, you’re right. — Henry Ford",
-    "Success is the sum of small efforts, repeated day in and day out. — Robert Collier",
-    "It always seems impossible until it’s done. — Nelson Mandela",
-    "You miss 100% of the shots you don’t take. — Wayne Gretzky",
-    "Do what you can, with what you have, where you are. — Theodore Roosevelt",
-    "Perfection is the enemy of progress. — Winston Churchill",
-    "Fall seven times and stand up eight. — Japanese Proverb",
-    "Action is the foundational key to all success. — Pablo Picasso",
-    "The future depends on what you do today. — Mahatma Gandhi",
-    "Discipline is the bridge between goals and accomplishment. — Jim Rohn",
-    "Motivation gets you going, but discipline keeps you growing. — John C. Maxwell",
-    "Great things are done by a series of small things brought together. — Vincent van Gogh",
-    "Energy and persistence conquer all things. — Benjamin Franklin",
-    "What we repeatedly do, we become. — Aristotle (paraphrased)",
-    "The man who moves a mountain begins by carrying away small stones. — Confucius",
-    "Courage is resistance to fear, mastery of fear, not absence of fear. — Mark Twain",
-    "Dream big. Start small. But most of all, start. — Simon Sinek",
-    "Small deeds done are better than great deeds planned. — Peter Marshall",
-    "Done is better than perfect. — Sheryl Sandberg",
+    "The only way to do great work is to love what you do. - Steve Jobs",
+    "Whether you think you can or you think you can’t, you’re right. - Henry Ford",
+    "Success is the sum of small efforts, repeated day in and day out. - Robert Collier",
+    "It always seems impossible until it’s done. - Nelson Mandela",
+    "You miss 100% of the shots you don’t take. - Wayne Gretzky",
+    "Do what you can, with what you have, where you are. - Theodore Roosevelt",
+    "Perfection is the enemy of progress. - Winston Churchill",
+    "Fall seven times and stand up eight. - Japanese Proverb",
+    "Action is the foundational key to all success. - Pablo Picasso",
+    "The future depends on what you do today. - Mahatma Gandhi",
+    "Discipline is the bridge between goals and accomplishment. - Jim Rohn",
+    "Motivation gets you going, but discipline keeps you growing. - John C. Maxwell",
+    "Great things are done by a series of small things brought together. - Vincent van Gogh",
+    "Energy and persistence conquer all things. - Benjamin Franklin",
+    "What we repeatedly do, we become. - Aristotle (paraphrased)",
+    "The man who moves a mountain begins by carrying away small stones. - Confucius",
+    "Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain",
+    "Dream big. Start small. But most of all, start. - Simon Sinek",
+    "Small deeds done are better than great deeds planned. - Peter Marshall",
+    "Done is better than perfect. - Sheryl Sandberg",
 ]
 
 
@@ -93,7 +93,7 @@ def main():
         print("Not a commit day. Exiting without changes.")
         return
 
-    # It's a commit day 🎉
+    # It's a commit day
     num_commits = random.randint(2, 3)
     gap_days = random.randint(2, 3)
     new_next_date = today + timedelta(days=gap_days)
