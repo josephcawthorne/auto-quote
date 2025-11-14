@@ -17,3 +17,4 @@
 # The only way to do great work is to love what you do. - Steve Jobs
 # Energy and persistence conquer all things. - Benjamin Franklin
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Discipline is the bridge between goals and accomplishment. - Jim Rohn
