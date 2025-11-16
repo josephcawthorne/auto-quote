@@ -20,3 +20,4 @@
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# Done is better than perfect. - Sheryl Sandberg
