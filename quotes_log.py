@@ -21,3 +21,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Done is better than perfect. - Sheryl Sandberg
+# Fall seven times and stand up eight. - Japanese Proverb
