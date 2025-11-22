@@ -26,3 +26,4 @@
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # It always seems impossible until it’s done. - Nelson Mandela
 # The man who moves a mountain begins by carrying away small stones. - Confucius
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
