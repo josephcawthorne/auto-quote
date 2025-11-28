@@ -31,3 +31,4 @@
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
