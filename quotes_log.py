@@ -36,3 +36,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Done is better than perfect. - Sheryl Sandberg
 # It always seems impossible until it’s done. - Nelson Mandela
+# Small deeds done are better than great deeds planned. - Peter Marshall
