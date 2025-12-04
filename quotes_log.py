@@ -37,3 +37,4 @@
 # Done is better than perfect. - Sheryl Sandberg
 # It always seems impossible until it’s done. - Nelson Mandela
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# Done is better than perfect. - Sheryl Sandberg
