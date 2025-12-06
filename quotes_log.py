@@ -5,7 +5,7 @@
 #######################################################################
 # A simple Python script can automate daily commits - therefore it is not a measure that can be trusted.
 
-# NEXT_COMMIT_DATE: 2025-12-06
+# NEXT_COMMIT_DATE: 2025-12-08
 
 
 # Quote log
@@ -38,3 +38,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Done is better than perfect. - Sheryl Sandberg
+# You miss 100% of the shots you don’t take. - Wayne Gretzky
