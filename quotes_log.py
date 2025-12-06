@@ -39,3 +39,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Done is better than perfect. - Sheryl Sandberg
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# The man who moves a mountain begins by carrying away small stones. - Confucius
