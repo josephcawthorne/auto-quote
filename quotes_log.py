@@ -41,3 +41,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Action is the foundational key to all success. - Pablo Picasso
+# What we repeatedly do, we become. - Aristotle (paraphrased)
