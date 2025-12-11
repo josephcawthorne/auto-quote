@@ -44,3 +44,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# The man who moves a mountain begins by carrying away small stones. - Confucius
