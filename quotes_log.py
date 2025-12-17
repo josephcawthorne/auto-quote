@@ -50,3 +50,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # The man who moves a mountain begins by carrying away small stones. - Confucius
+# Fall seven times and stand up eight. - Japanese Proverb
