@@ -49,3 +49,4 @@
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# The man who moves a mountain begins by carrying away small stones. - Confucius
