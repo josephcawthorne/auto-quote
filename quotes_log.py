@@ -53,3 +53,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # It always seems impossible until it’s done. - Nelson Mandela
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
