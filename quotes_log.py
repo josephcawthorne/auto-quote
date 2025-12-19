@@ -52,3 +52,4 @@
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Fall seven times and stand up eight. - Japanese Proverb
 # It always seems impossible until it’s done. - Nelson Mandela
+# Small deeds done are better than great deeds planned. - Peter Marshall
