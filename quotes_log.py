@@ -56,3 +56,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Fall seven times and stand up eight. - Japanese Proverb
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# Small deeds done are better than great deeds planned. - Peter Marshall
