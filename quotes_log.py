@@ -61,3 +61,4 @@
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # The future depends on what you do today. - Mahatma Gandhi
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# Whether you think you can or you think you can’t, you’re right. - Henry Ford
