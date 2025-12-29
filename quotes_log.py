@@ -65,3 +65,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # It always seems impossible until it’s done. - Nelson Mandela
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# Fall seven times and stand up eight. - Japanese Proverb
