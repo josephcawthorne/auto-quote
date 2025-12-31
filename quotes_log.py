@@ -67,3 +67,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Fall seven times and stand up eight. - Japanese Proverb
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
+# Fall seven times and stand up eight. - Japanese Proverb
