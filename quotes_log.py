@@ -70,3 +70,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# Perfection is the enemy of progress. - Winston Churchill
