@@ -71,3 +71,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Perfection is the enemy of progress. - Winston Churchill
+# Done is better than perfect. - Sheryl Sandberg
