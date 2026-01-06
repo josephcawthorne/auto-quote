@@ -73,3 +73,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Done is better than perfect. - Sheryl Sandberg
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
+# Fall seven times and stand up eight. - Japanese Proverb
