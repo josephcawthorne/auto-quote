@@ -76,3 +76,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Fall seven times and stand up eight. - Japanese Proverb
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# The only way to do great work is to love what you do. - Steve Jobs
