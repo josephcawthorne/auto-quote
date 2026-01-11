@@ -78,3 +78,4 @@
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # The only way to do great work is to love what you do. - Steve Jobs
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# Perfection is the enemy of progress. - Winston Churchill
