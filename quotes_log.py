@@ -80,3 +80,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Perfection is the enemy of progress. - Winston Churchill
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# Fall seven times and stand up eight. - Japanese Proverb
