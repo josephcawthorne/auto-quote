@@ -83,3 +83,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# Fall seven times and stand up eight. - Japanese Proverb
