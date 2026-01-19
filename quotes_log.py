@@ -85,3 +85,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # Fall seven times and stand up eight. - Japanese Proverb
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# The only way to do great work is to love what you do. - Steve Jobs
