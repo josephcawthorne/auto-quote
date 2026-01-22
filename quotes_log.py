@@ -87,3 +87,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # The only way to do great work is to love what you do. - Steve Jobs
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# Energy and persistence conquer all things. - Benjamin Franklin
