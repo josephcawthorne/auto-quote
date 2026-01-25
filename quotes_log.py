@@ -90,3 +90,4 @@
 # Energy and persistence conquer all things. - Benjamin Franklin
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# It always seems impossible until it’s done. - Nelson Mandela
