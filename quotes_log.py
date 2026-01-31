@@ -95,3 +95,4 @@
 # Energy and persistence conquer all things. - Benjamin Franklin
 # It always seems impossible until it’s done. - Nelson Mandela
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# Great things are done by a series of small things brought together. - Vincent van Gogh
