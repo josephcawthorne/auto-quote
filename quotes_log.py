@@ -100,3 +100,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # It always seems impossible until it’s done. - Nelson Mandela
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# The only way to do great work is to love what you do. - Steve Jobs
