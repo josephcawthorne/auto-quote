@@ -99,3 +99,4 @@
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Action is the foundational key to all success. - Pablo Picasso
 # It always seems impossible until it’s done. - Nelson Mandela
+# Great things are done by a series of small things brought together. - Vincent van Gogh
