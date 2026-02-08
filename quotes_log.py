@@ -102,3 +102,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # The only way to do great work is to love what you do. - Steve Jobs
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# You miss 100% of the shots you don’t take. - Wayne Gretzky
