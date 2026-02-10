@@ -104,3 +104,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # The future depends on what you do today. - Mahatma Gandhi
+# Action is the foundational key to all success. - Pablo Picasso
