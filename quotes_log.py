@@ -106,3 +106,4 @@
 # The future depends on what you do today. - Mahatma Gandhi
 # Action is the foundational key to all success. - Pablo Picasso
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# The only way to do great work is to love what you do. - Steve Jobs
