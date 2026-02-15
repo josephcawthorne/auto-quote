@@ -108,3 +108,4 @@
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # The only way to do great work is to love what you do. - Steve Jobs
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
+# What we repeatedly do, we become. - Aristotle (paraphrased)
