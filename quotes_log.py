@@ -110,3 +110,4 @@
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
+# Fall seven times and stand up eight. - Japanese Proverb
