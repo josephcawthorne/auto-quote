@@ -112,3 +112,4 @@
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Fall seven times and stand up eight. - Japanese Proverb
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# Whether you think you can or you think you can’t, you’re right. - Henry Ford
