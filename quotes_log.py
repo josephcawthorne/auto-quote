@@ -113,3 +113,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
+# The only way to do great work is to love what you do. - Steve Jobs
