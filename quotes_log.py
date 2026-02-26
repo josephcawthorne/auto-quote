@@ -118,3 +118,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Action is the foundational key to all success. - Pablo Picasso
 # Fall seven times and stand up eight. - Japanese Proverb
+# It always seems impossible until it’s done. - Nelson Mandela
