@@ -119,3 +119,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Fall seven times and stand up eight. - Japanese Proverb
 # It always seems impossible until it’s done. - Nelson Mandela
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
