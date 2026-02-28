@@ -121,3 +121,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Perfection is the enemy of progress. - Winston Churchill
+# Whether you think you can or you think you can’t, you’re right. - Henry Ford
