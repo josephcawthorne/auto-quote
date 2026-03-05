@@ -126,3 +126,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Fall seven times and stand up eight. - Japanese Proverb
+# Done is better than perfect. - Sheryl Sandberg
