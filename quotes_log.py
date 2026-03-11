@@ -131,3 +131,4 @@
 # The future depends on what you do today. - Mahatma Gandhi
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # Energy and persistence conquer all things. - Benjamin Franklin
+# Action is the foundational key to all success. - Pablo Picasso
