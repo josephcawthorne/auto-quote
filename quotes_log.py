@@ -133,3 +133,4 @@
 # Energy and persistence conquer all things. - Benjamin Franklin
 # Action is the foundational key to all success. - Pablo Picasso
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# Done is better than perfect. - Sheryl Sandberg
