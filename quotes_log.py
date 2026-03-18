@@ -139,3 +139,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Fall seven times and stand up eight. - Japanese Proverb
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
+# Whether you think you can or you think you can’t, you’re right. - Henry Ford
