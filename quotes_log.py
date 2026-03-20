@@ -141,3 +141,4 @@
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# The only way to do great work is to love what you do. - Steve Jobs
