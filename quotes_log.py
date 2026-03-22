@@ -145,3 +145,4 @@
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # The only way to do great work is to love what you do. - Steve Jobs
 # Fall seven times and stand up eight. - Japanese Proverb
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
