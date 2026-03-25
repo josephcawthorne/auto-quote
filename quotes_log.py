@@ -147,3 +147,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # The only way to do great work is to love what you do. - Steve Jobs
+# Energy and persistence conquer all things. - Benjamin Franklin
