@@ -149,3 +149,4 @@
 # The only way to do great work is to love what you do. - Steve Jobs
 # Energy and persistence conquer all things. - Benjamin Franklin
 # The man who moves a mountain begins by carrying away small stones. - Confucius
+# Do what you can, with what you have, where you are. - Theodore Roosevelt
