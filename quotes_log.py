@@ -153,3 +153,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # The only way to do great work is to love what you do. - Steve Jobs
 # The future depends on what you do today. - Mahatma Gandhi
+# The man who moves a mountain begins by carrying away small stones. - Confucius
