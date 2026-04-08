@@ -157,3 +157,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
