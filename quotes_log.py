@@ -159,3 +159,4 @@
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Action is the foundational key to all success. - Pablo Picasso
