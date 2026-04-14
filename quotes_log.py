@@ -162,3 +162,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Dream big. Start small. But most of all, start. - Simon Sinek
