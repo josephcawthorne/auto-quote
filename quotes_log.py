@@ -176,3 +176,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # Action is the foundational key to all success. - Pablo Picasso
+# The only way to do great work is to love what you do. - Steve Jobs
