@@ -178,3 +178,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # The only way to do great work is to love what you do. - Steve Jobs
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# The future depends on what you do today. - Mahatma Gandhi
