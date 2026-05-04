@@ -183,3 +183,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # The only way to do great work is to love what you do. - Steve Jobs
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# Great things are done by a series of small things brought together. - Vincent van Gogh
