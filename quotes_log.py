@@ -189,3 +189,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Done is better than perfect. - Sheryl Sandberg
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Small deeds done are better than great deeds planned. - Peter Marshall
