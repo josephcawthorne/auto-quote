@@ -191,3 +191,4 @@
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Action is the foundational key to all success. - Pablo Picasso
+# Done is better than perfect. - Sheryl Sandberg
