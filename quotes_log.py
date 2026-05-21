@@ -199,3 +199,4 @@
 # Done is better than perfect. - Sheryl Sandberg
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
+# Great things are done by a series of small things brought together. - Vincent van Gogh
