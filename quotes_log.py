@@ -201,3 +201,4 @@
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Done is better than perfect. - Sheryl Sandberg
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
