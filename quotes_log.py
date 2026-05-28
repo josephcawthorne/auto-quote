@@ -205,3 +205,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # It always seems impossible until it’s done. - Nelson Mandela
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
