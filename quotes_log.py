@@ -207,3 +207,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
