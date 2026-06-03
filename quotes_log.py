@@ -210,3 +210,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# The only way to do great work is to love what you do. - Steve Jobs
