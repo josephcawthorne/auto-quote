@@ -212,3 +212,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # The only way to do great work is to love what you do. - Steve Jobs
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# Great things are done by a series of small things brought together. - Vincent van Gogh
