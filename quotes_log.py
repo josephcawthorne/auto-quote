@@ -217,3 +217,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Fall seven times and stand up eight. - Japanese Proverb
+# What we repeatedly do, we become. - Aristotle (paraphrased)
