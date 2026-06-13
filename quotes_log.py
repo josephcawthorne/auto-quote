@@ -220,3 +220,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # The only way to do great work is to love what you do. - Steve Jobs
+# Do what you can, with what you have, where you are. - Theodore Roosevelt
