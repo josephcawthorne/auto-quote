@@ -222,3 +222,4 @@
 # The only way to do great work is to love what you do. - Steve Jobs
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Action is the foundational key to all success. - Pablo Picasso
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
