@@ -226,3 +226,4 @@
 # The only way to do great work is to love what you do. - Steve Jobs
 # Done is better than perfect. - Sheryl Sandberg
 # Done is better than perfect. - Sheryl Sandberg
+# Discipline is the bridge between goals and accomplishment. - Jim Rohn
