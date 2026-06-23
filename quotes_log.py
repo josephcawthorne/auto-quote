@@ -228,3 +228,4 @@
 # Done is better than perfect. - Sheryl Sandberg
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# The future depends on what you do today. - Mahatma Gandhi
