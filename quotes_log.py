@@ -233,3 +233,4 @@
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
