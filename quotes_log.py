@@ -238,3 +238,4 @@
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # The only way to do great work is to love what you do. - Steve Jobs
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
