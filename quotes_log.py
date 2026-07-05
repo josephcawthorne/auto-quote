@@ -240,3 +240,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
+# Small deeds done are better than great deeds planned. - Peter Marshall
