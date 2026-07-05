@@ -241,3 +241,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# It always seems impossible until it’s done. - Nelson Mandela
