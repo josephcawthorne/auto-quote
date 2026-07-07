@@ -243,3 +243,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # It always seems impossible until it’s done. - Nelson Mandela
 # It always seems impossible until it’s done. - Nelson Mandela
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
