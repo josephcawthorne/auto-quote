@@ -247,3 +247,4 @@
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
