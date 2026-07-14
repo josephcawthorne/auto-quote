@@ -249,3 +249,4 @@
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Energy and persistence conquer all things. - Benjamin Franklin
+# It always seems impossible until it’s done. - Nelson Mandela
