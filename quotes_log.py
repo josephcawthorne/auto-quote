@@ -252,3 +252,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Action is the foundational key to all success. - Pablo Picasso
 # The future depends on what you do today. - Mahatma Gandhi
+# Energy and persistence conquer all things. - Benjamin Franklin
