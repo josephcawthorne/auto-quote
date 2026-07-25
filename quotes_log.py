@@ -259,3 +259,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Energy and persistence conquer all things. - Benjamin Franklin
+# Perfection is the enemy of progress. - Winston Churchill
