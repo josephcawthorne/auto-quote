@@ -262,3 +262,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # Perfection is the enemy of progress. - Winston Churchill
+# Done is better than perfect. - Sheryl Sandberg
