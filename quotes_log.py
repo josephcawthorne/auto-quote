@@ -264,3 +264,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Done is better than perfect. - Sheryl Sandberg
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# It always seems impossible until it’s done. - Nelson Mandela
