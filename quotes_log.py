@@ -267,3 +267,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
+# Fall seven times and stand up eight. - Japanese Proverb
