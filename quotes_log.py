@@ -272,3 +272,4 @@
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # Action is the foundational key to all success. - Pablo Picasso
+# Discipline is the bridge between goals and accomplishment. - Jim Rohn
