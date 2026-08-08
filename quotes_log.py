@@ -275,3 +275,4 @@
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Perfection is the enemy of progress. - Winston Churchill
+# The man who moves a mountain begins by carrying away small stones. - Confucius
