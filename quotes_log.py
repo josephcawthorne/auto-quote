@@ -277,3 +277,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# Action is the foundational key to all success. - Pablo Picasso
