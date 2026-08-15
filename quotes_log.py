@@ -282,3 +282,4 @@
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # The future depends on what you do today. - Mahatma Gandhi
 # Energy and persistence conquer all things. - Benjamin Franklin
+# Discipline is the bridge between goals and accomplishment. - Jim Rohn
