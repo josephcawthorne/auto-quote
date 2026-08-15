@@ -283,3 +283,4 @@
 # The future depends on what you do today. - Mahatma Gandhi
 # Energy and persistence conquer all things. - Benjamin Franklin
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
