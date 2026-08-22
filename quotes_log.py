@@ -290,3 +290,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
+# Energy and persistence conquer all things. - Benjamin Franklin
