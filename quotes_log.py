@@ -294,3 +294,4 @@
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # The future depends on what you do today. - Mahatma Gandhi
+# Success is the sum of small efforts, repeated day in and day out. - Robert Collier
