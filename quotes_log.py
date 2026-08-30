@@ -296,3 +296,4 @@
 # The future depends on what you do today. - Mahatma Gandhi
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Perfection is the enemy of progress. - Winston Churchill
+# Small deeds done are better than great deeds planned. - Peter Marshall
