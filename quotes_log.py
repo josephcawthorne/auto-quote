@@ -298,3 +298,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # It always seems impossible until it’s done. - Nelson Mandela
+# Small deeds done are better than great deeds planned. - Peter Marshall
