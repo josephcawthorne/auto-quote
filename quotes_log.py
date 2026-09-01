@@ -299,3 +299,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # It always seems impossible until it’s done. - Nelson Mandela
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# The man who moves a mountain begins by carrying away small stones. - Confucius
