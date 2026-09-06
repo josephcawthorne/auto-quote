@@ -304,3 +304,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 # Done is better than perfect. - Sheryl Sandberg
+# The future depends on what you do today. - Mahatma Gandhi
