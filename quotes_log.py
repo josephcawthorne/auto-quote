@@ -303,3 +303,4 @@
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # Fall seven times and stand up eight. - Japanese Proverb
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
+# Done is better than perfect. - Sheryl Sandberg
