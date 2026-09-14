@@ -311,3 +311,4 @@
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # The only way to do great work is to love what you do. - Steve Jobs
 # Done is better than perfect. - Sheryl Sandberg
+# Small deeds done are better than great deeds planned. - Peter Marshall
