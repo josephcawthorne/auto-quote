@@ -313,3 +313,4 @@
 # Done is better than perfect. - Sheryl Sandberg
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
+# Fall seven times and stand up eight. - Japanese Proverb
