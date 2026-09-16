@@ -314,3 +314,4 @@
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # Discipline is the bridge between goals and accomplishment. - Jim Rohn
 # Fall seven times and stand up eight. - Japanese Proverb
+# Do what you can, with what you have, where you are. - Theodore Roosevelt
