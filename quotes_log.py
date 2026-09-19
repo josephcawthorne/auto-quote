@@ -316,3 +316,4 @@
 # Fall seven times and stand up eight. - Japanese Proverb
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
 # Success is the sum of small efforts, repeated day in and day out. - Robert Collier
+# Dream big. Start small. But most of all, start. - Simon Sinek
