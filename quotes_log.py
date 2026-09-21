@@ -319,3 +319,4 @@
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # The future depends on what you do today. - Mahatma Gandhi
 # Small deeds done are better than great deeds planned. - Peter Marshall
+# Action is the foundational key to all success. - Pablo Picasso
