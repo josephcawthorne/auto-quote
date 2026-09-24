@@ -322,3 +322,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # It always seems impossible until it’s done. - Nelson Mandela
+# Small deeds done are better than great deeds planned. - Peter Marshall
