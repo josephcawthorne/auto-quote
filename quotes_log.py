@@ -324,3 +324,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # Small deeds done are better than great deeds planned. - Peter Marshall
 # The only way to do great work is to love what you do. - Steve Jobs
+# Whether you think you can or you think you can’t, you’re right. - Henry Ford
