@@ -327,3 +327,4 @@
 # Whether you think you can or you think you can’t, you’re right. - Henry Ford
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # The future depends on what you do today. - Mahatma Gandhi
+# Dream big. Start small. But most of all, start. - Simon Sinek
