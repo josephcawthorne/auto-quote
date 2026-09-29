@@ -328,3 +328,4 @@
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # The future depends on what you do today. - Mahatma Gandhi
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# The man who moves a mountain begins by carrying away small stones. - Confucius
