@@ -331,3 +331,4 @@
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # What we repeatedly do, we become. - Aristotle (paraphrased)
+# Perfection is the enemy of progress. - Winston Churchill
