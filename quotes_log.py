@@ -334,3 +334,4 @@
 # Perfection is the enemy of progress. - Winston Churchill
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # The man who moves a mountain begins by carrying away small stones. - Confucius
+# You miss 100% of the shots you don’t take. - Wayne Gretzky
