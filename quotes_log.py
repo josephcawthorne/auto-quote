@@ -336,3 +336,4 @@
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # You miss 100% of the shots you don’t take. - Wayne Gretzky
 # It always seems impossible until it’s done. - Nelson Mandela
+# The man who moves a mountain begins by carrying away small stones. - Confucius
