@@ -338,3 +338,4 @@
 # It always seems impossible until it’s done. - Nelson Mandela
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # The man who moves a mountain begins by carrying away small stones. - Confucius
+# Dream big. Start small. But most of all, start. - Simon Sinek
