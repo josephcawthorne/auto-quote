@@ -340,3 +340,4 @@
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # Great things are done by a series of small things brought together. - Vincent van Gogh
+# Action is the foundational key to all success. - Pablo Picasso
