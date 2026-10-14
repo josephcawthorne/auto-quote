@@ -343,3 +343,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # It always seems impossible until it’s done. - Nelson Mandela
 # It always seems impossible until it’s done. - Nelson Mandela
+# Discipline is the bridge between goals and accomplishment. - Jim Rohn
