@@ -351,3 +351,4 @@
 # Energy and persistence conquer all things. - Benjamin Franklin
 # The man who moves a mountain begins by carrying away small stones. - Confucius
 # Action is the foundational key to all success. - Pablo Picasso
+# Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
