@@ -353,3 +353,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Action is the foundational key to all success. - Pablo Picasso
+# Fall seven times and stand up eight. - Japanese Proverb
