@@ -355,3 +355,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Fall seven times and stand up eight. - Japanese Proverb
 # Dream big. Start small. But most of all, start. - Simon Sinek
+# Great things are done by a series of small things brought together. - Vincent van Gogh
