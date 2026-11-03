@@ -358,3 +358,4 @@
 # Great things are done by a series of small things brought together. - Vincent van Gogh
 # The future depends on what you do today. - Mahatma Gandhi
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
+# Energy and persistence conquer all things. - Benjamin Franklin
