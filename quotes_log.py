@@ -362,3 +362,4 @@
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # The only way to do great work is to love what you do. - Steve Jobs
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
+# Do what you can, with what you have, where you are. - Theodore Roosevelt
