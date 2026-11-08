@@ -363,3 +363,4 @@
 # The only way to do great work is to love what you do. - Steve Jobs
 # Courage is resistance to fear, mastery of fear, not absence of fear. - Mark Twain
 # Do what you can, with what you have, where you are. - Theodore Roosevelt
+# Dream big. Start small. But most of all, start. - Simon Sinek
