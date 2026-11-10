@@ -366,3 +366,4 @@
 # Dream big. Start small. But most of all, start. - Simon Sinek
 # What we repeatedly do, we become. - Aristotle (paraphrased)
 # Action is the foundational key to all success. - Pablo Picasso
+# Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
