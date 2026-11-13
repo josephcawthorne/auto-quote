@@ -368,3 +368,4 @@
 # Action is the foundational key to all success. - Pablo Picasso
 # Motivation gets you going, but discipline keeps you growing. - John C. Maxwell
 # Action is the foundational key to all success. - Pablo Picasso
+# Do what you can, with what you have, where you are. - Theodore Roosevelt
